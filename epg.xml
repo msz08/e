@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tv>
+  <!-- Hier definieren wir die IDs für deine 3 Folgen -->
+  <channel id="aerzte.folge460"><display-name>Folge 460</display-name></channel>
+  <channel id="aerzte.folge461"><display-name>Folge 461</display-name></channel>
+  <channel id="aerzte.folge462"><display-name>Folge 462</display-name></channel>
+  <channel id="aerzte.folge463"><display-name>Folge 463</display-name></channel>
+  <channel id="aerzte.folge464"><display-name>Folge 464</display-name></channel>
+  <channel id="aerzte.folge465"><display-name>Folge 465</display-name></channel>
+  <channel id="aerzte.folge466"><display-name>Folge 466</display-name></channel>
+  <channel id="aerzte.folge467"><display-name>Folge 467</display-name></channel>
+
+ <!-- Folge 460 Programm (Startet am 10.08.2026 und läuft bis 20.08.2030) -->
+  <programme start="20260810000000 +0200" stop="20300820000000 +0200" channel="aerzte.folge460">
+    <title lang="de">Die Jungen Ärzte - Folge 460</title>
+    <desc lang="de">MP4 Video - Spulen im TV-Tab aktiviert</desc>
+  </programme>
+
+  <!-- Folge 461 Programm -->
+  <programme start="20260810000000 +0200" stop="20300820000000 +0200" channel="aerzte.folge461">
+    <title lang="de">Die Jungen Ärzte - Folge 461</title>
+    <desc lang="de">MP4 Video - Spulen im TV-Tab aktiviert</desc>
+  </programme>
+
+  <!-- Folge 462 Programm -->
+  <programme start="20260810000000 +0200" stop="20300820000000 +0200" channel="aerzte.folge462">
+    <title lang="de">Die Jungen Ärzte - Folge 462</title>
+    <desc lang="de">MP4 Video - Spulen im TV-Tab aktiviert</desc>
+  </programme>
+
+ <!-- Folge 463 Programm -->
+  <programme start="20260810000000 +0200" stop="20300820000000 +0200" channel="aerzte.folge463">
+    <title lang="de">Die Jungen Ärzte - Folge 463</title>
+    <desc lang="de">MP4 Video - Spulen im TV-Tab aktiviert</desc>
+  </programme>
+
+ <!-- Folge 464 Programm -->
+  <programme start="20260810000000 +0200" stop="20300820000000 +0200" channel="aerzte.folge464">
+    <title lang="de">Die Jungen Ärzte - Folge 464</title>
+    <desc lang="de">MP4 Video - Spulen im TV-Tab aktiviert</desc>
+  </programme>
+ 
+<!-- Folge 465 Programm -->
+  <programme start="20260810000000 +0200" stop="20300820000000 +0200" channel="aerzte.folge465">
+    <title lang="de">Die Jungen Ärzte - Folge 465</title>
+    <desc lang="de">MP4 Video - Spulen im TV-Tab aktiviert</desc>
+  </programme>
+
+ <!-- Folge 466 Programm -->
+  <programme start="20260810000000 +0200" stop="20300820000000 +0200" channel="aerzte.folge466">
+    <title lang="de">Die Jungen Ärzte - Folge 466</title>
+    <desc lang="de">MP4 Video - Spulen im TV-Tab aktiviert</desc>
+  </programme>
+
+ <!-- Folge 467 Programm -->
+  <programme start="20260810000000 +0200" stop="20300820000000 +0200" channel="aerzte.folge467">
+    <title lang="de">Die Jungen Ärzte - Folge 467</title>
+    <desc lang="de">MP4 Video - Spulen im TV-Tab aktiviert</desc>
+  </programme>
+</tv>
